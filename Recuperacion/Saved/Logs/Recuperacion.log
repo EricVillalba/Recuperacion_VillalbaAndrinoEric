@@ -12320,3 +12320,8 @@ Make sure 'ThirdPersonExampleMap_C' has been compiled for  Get Speed
 [2020.05.05-15.34.00:427][844]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.424
 [2020.05.05-15.34.00:447][844]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.05.05-15.34.00:447][844]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.05-15.36.18:465][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.05.05-15.36.18:861][433]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonExampleMap80161EE44436213B86132FAF1AD598AF.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.05-15.36.18:879][433]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.453
+[2020.05.05-15.36.18:893][433]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.05-15.36.18:893][433]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
