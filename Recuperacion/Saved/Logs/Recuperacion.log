@@ -7351,3 +7351,736 @@ Script Stack (0 frames):
 [2020.05.05-14.47.39:437][747]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.332
 [2020.05.05-14.47.39:449][747]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.05.05-14.47.39:449][747]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.05-14.48.45:355][788]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter86AB0ABB47428825D8BC298E48DC6CCE.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.48.45:366][788]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.48.45:366][788]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.49.11:674][819]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.49.11:917][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.05.05-14.49.12:364][857]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-14.49.12:375][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.12:376][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-14.49.12:376][857]PIE: New page: PIE session: ThirdPersonExampleMap (5 may. 2020 18:49:12)
+[2020.05.05-14.49.12:376][857]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.49.12:422][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046246s)
+[2020.05.05-14.49.12:423][857]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.05-14.49.12:424][857]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2020.05.05-14.49.12:424][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047899s)
+[2020.05.05-14.49.12:460][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-14.49.12:461][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-14.49.12:461][857]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-14.49.12:461][857]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-14.49.12:504][857]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-14.49.12:504][857]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.49.12:505][857]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-14.49.12:505][857]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-14.49.12:505][857]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-14.49.12:505][857]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-14.49.12:505][857]LogAudioMixer: Display: Channel Order:
+[2020.05.05-14.49.12:505][857]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-14.49.12:505][857]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-14.49.12:668][857]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.49.12:669][857]LogInit: FAudioDevice initialized.
+[2020.05.05-14.49.12:724][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.49.12:724][857]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.05-14.49.12:729][857]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.05-16.49.12
+[2020.05.05-14.49.12:729][857]LogWorld: Bringing up level for play took: 0.004431
+[2020.05.05-14.49.12:729][857]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.05.05-14.49.12:733][857]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,613
+[2020.05.05-14.49.12:734][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.12:734][857]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.49.12:790][858]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:799][859]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.4
+[2020.05.05-14.49.12:808][860]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.030931
+[2020.05.05-14.49.12:816][861]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008436
+[2020.05.05-14.49.12:824][862]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008346
+[2020.05.05-14.49.12:832][863]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008423
+[2020.05.05-14.49.12:840][864]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008337
+[2020.05.05-14.49.12:849][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.12:857][866]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:865][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:874][868]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:882][869]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008343
+[2020.05.05-14.49.12:890][870]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008348
+[2020.05.05-14.49.12:899][871]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:907][872]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:916][873]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008447
+[2020.05.05-14.49.12:924][874]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008661
+[2020.05.05-14.49.12:933][875]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:941][876]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:949][877]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.12:957][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:965][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:974][880]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:983][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:991][882]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.12:999][883]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:008][884]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:016][885]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008335
+[2020.05.05-14.49.13:025][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008338
+[2020.05.05-14.49.13:033][887]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:041][888]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:050][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:058][890]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:067][891]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008493
+[2020.05.05-14.49.13:074][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008544
+[2020.05.05-14.49.13:083][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008398
+[2020.05.05-14.49.13:092][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:101][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009381
+[2020.05.05-14.49.13:110][896]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009227
+[2020.05.05-14.49.13:118][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008445
+[2020.05.05-14.49.13:128][898]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:139][899]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.010105
+[2020.05.05-14.49.13:147][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.010281
+[2020.05.05-14.49.13:155][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008391
+[2020.05.05-14.49.13:164][902]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:176][903]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:185][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008645
+[2020.05.05-14.49.13:195][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.012339
+[2020.05.05-14.49.13:203][906]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009134
+[2020.05.05-14.49.13:213][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008519
+[2020.05.05-14.49.13:223][908]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.010283
+[2020.05.05-14.49.13:231][909]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009375
+[2020.05.05-14.49.13:241][910]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:250][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009528
+[2020.05.05-14.49.13:259][912]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009717
+[2020.05.05-14.49.13:267][913]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009573
+[2020.05.05-14.49.13:276][914]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:285][915]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:293][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:301][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:310][918]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:318][919]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008343
+[2020.05.05-14.49.13:326][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:335][921]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:343][922]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:350][923]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:359][924]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:367][925]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008345
+[2020.05.05-14.49.13:375][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008347
+[2020.05.05-14.49.13:384][927]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:392][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:401][929]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:409][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:417][931]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:425][932]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:434][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:442][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:451][935]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:459][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:467][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008341
+[2020.05.05-14.49.13:476][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008345
+[2020.05.05-14.49.13:484][939]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:492][940]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:501][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:509][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:517][943]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:526][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:534][945]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:543][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:552][947]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009042
+[2020.05.05-14.49.13:560][948]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008335
+[2020.05.05-14.49.13:568][949]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:577][950]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008335
+[2020.05.05-14.49.13:585][951]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:593][952]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008335
+[2020.05.05-14.49.13:602][953]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:610][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:618][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:627][956]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:636][957]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:643][958]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008353
+[2020.05.05-14.49.13:652][959]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:660][960]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:669][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008341
+[2020.05.05-14.49.13:677][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:685][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008605
+[2020.05.05-14.49.13:693][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:702][965]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:710][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:719][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:727][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:735][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:744][970]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.13:752][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:760][972]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:769][973]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:777][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:786][975]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:794][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008335
+[2020.05.05-14.49.13:802][977]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:810][978]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:819][979]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008348
+[2020.05.05-14.49.13:827][980]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:836][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:844][982]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:852][983]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:861][984]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008336
+[2020.05.05-14.49.13:869][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:877][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008426
+[2020.05.05-14.49.13:886][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:894][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:903][989]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008374
+[2020.05.05-14.49.13:911][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:918][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:928][992]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008484
+[2020.05.05-14.49.13:936][993]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009382
+[2020.05.05-14.49.13:944][994]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:953][995]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:961][996]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008335
+[2020.05.05-14.49.13:970][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:978][998]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:986][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.13:995][  0]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:003][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:011][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:020][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:028][  4]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:036][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:045][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:053][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:062][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008342
+[2020.05.05-14.49.14:070][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:078][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008343
+[2020.05.05-14.49.14:087][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:097][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008369
+[2020.05.05-14.49.14:106][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.010091
+[2020.05.05-14.49.14:115][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009822
+[2020.05.05-14.49.14:123][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:132][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:140][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:148][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:157][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:165][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:173][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:182][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:190][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:198][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:207][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:215][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:224][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:232][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:240][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:249][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:257][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.14:266][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008822
+[2020.05.05-14.49.14:274][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:282][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:290][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:299][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:307][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:315][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:324][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:332][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:340][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:349][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:357][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:365][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:374][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:382][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:391][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008345
+[2020.05.05-14.49.14:399][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:407][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008346
+[2020.05.05-14.49.14:416][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008338
+[2020.05.05-14.49.14:424][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:432][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:441][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:449][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:457][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.14:466][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:474][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.14:483][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:491][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008341
+[2020.05.05-14.49.14:499][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:507][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:515][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:523][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:532][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:541][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:549][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.009286
+[2020.05.05-14.49.14:558][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:566][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:574][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008342
+[2020.05.05-14.49.14:583][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:592][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:600][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008481
+[2020.05.05-14.49.14:608][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:616][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:625][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.14:633][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008333
+[2020.05.05-14.49.14:642][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:650][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:658][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008345
+[2020.05.05-14.49.14:667][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:675][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:683][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:691][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:699][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:708][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:716][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:725][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.008334
+[2020.05.05-14.49.14:726][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.49.14:726][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.49.14:726][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.14:726][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.49.14:726][ 87]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.49.14:734][ 87]LogSlate: Window 'Recuperacion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-14.49.14:745][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.49.14:745][ 87]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-14.49.14:746][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.49.14:770][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-14.49.14:770][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.14:774][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.49.14:807][ 87]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.49.14:816][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.05.05-14.49.14:862][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.05.05-14.49.24:322][167]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter494B7BC44EF022F1AE63FB8AD1C183FF.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.49.24:334][167]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.49.24:334][167]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.49.34:406][322]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterEF420DFF4E803C1622E17792D8219F4F.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.49.34:419][322]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.49.34:419][322]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.49.34:813][367]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.49.35:053][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.05.05-14.49.35:673][424]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-14.49.35:683][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.35:684][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-14.49.35:684][424]PIE: New page: PIE session: ThirdPersonExampleMap (5 may. 2020 18:49:35)
+[2020.05.05-14.49.35:684][424]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.49.35:729][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045789s)
+[2020.05.05-14.49.35:730][424]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.05-14.49.35:731][424]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2020.05.05-14.49.35:731][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047056s)
+[2020.05.05-14.49.35:769][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-14.49.35:771][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-14.49.35:771][424]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-14.49.35:771][424]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: Channel Order:
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-14.49.35:815][424]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-14.49.35:980][424]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.49.35:981][424]LogInit: FAudioDevice initialized.
+[2020.05.05-14.49.36:023][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.49.36:024][424]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.05-14.49.36:028][424]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.05-16.49.36
+[2020.05.05-14.49.36:029][424]LogWorld: Bringing up level for play took: 0.004273
+[2020.05.05-14.49.36:029][424]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.05.05-14.49.36:034][424]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,087
+[2020.05.05-14.49.36:034][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.43:469][288]LogSlate: Window 'Recuperacion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-14.49.43:480][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.43:480][288]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.49.43:480][288]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.49.43:481][288]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-14.49.43:481][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.49.43:503][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-14.49.43:503][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.49.43:507][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.49.43:543][288]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.49.43:552][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.05.05-14.49.43:627][289]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.05.05-14.49.44:401][374]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.49.44:638][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.05.05-14.49.45:157][410]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterF5074DDD47EE90DD89D50B92F10F1065.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.49.45:174][410]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.49.45:174][410]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.49.49:176][870]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter7D99613A4534E340008B6E8B1167661B.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.49.49:188][870]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.49.49:188][870]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.49.49:741][934]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.49.49:978][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.05.05-14.49.50:356][953]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter5ED3DE66436C8E1A54DCBEA4E3B82B08.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.49.50:372][953]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.49.50:372][953]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.49.50:708][987]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter96ADBA9A49955DB83FE3A19682B681B2.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.49.50:725][987]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.49.50:725][987]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.23:129][717]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter1CA352754DCA671C581C02A919BE2203.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.23:141][717]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.23:141][717]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.23:348][735]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter5797FF4A41DBBF3400BA74B93FB00AFD.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.23:362][735]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.23:362][735]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.23:542][749]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter6C9C5ADD47F4E1E7ED7C1EB1AB4278EF.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.23:554][749]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.23:554][749]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.23:743][761]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterE69EECC9401637F408A294BC899916DC.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.23:755][761]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.23:756][761]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.24:358][824]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterF29041E54904F57C9B643FA0C6E78802.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.24:371][824]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.24:371][824]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.27:359][147]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterF8FF44F64C93B2EFC8425EA4852621A8.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.27:374][147]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.27:374][147]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.27:613][165]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterB2CC98714D4148E8EB6E8880B4282492.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.27:624][165]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.27:624][165]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.27:825][180]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterECF3C4394A2817D78BCDE488C773DF09.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.50.27:838][180]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.50.27:838][180]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.50.28:309][235]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.50.28:316][235]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set Time  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.05.05-14.50.28:552][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.05.05-14.50.47:627][432]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.50.47:862][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.05.05-14.50.48:555][499]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.50.48:794][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.05.05-14.50.49:374][549]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-14.50.49:385][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.50.49:385][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-14.50.49:385][549]PIE: New page: PIE session: ThirdPersonExampleMap (5 may. 2020 18:50:49)
+[2020.05.05-14.50.49:386][549]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.50.49:432][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046480s)
+[2020.05.05-14.50.49:433][549]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.05-14.50.49:433][549]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2020.05.05-14.50.49:433][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047859s)
+[2020.05.05-14.50.49:470][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-14.50.49:471][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-14.50.49:471][549]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-14.50.49:471][549]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: Channel Order:
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-14.50.49:516][549]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-14.50.49:682][549]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.50.49:684][549]LogInit: FAudioDevice initialized.
+[2020.05.05-14.50.49:726][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.50.49:726][549]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.05-14.50.49:731][549]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.05-16.50.49
+[2020.05.05-14.50.49:731][549]LogWorld: Bringing up level for play took: 0.004342
+[2020.05.05-14.50.49:732][549]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.05.05-14.50.49:736][549]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,384
+[2020.05.05-14.50.49:736][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.50.54:833][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.50.54:834][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.50.54:834][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.50.54:834][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.50.54:834][133]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.50.54:842][133]LogSlate: Window 'Recuperacion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-14.50.54:854][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.50.54:854][133]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-14.50.54:856][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.50.54:876][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-14.50.54:877][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.50.54:881][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.50.54:914][133]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.50.54:924][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.05-14.50.54:978][134]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.05.05-14.51.06:911][492]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterF56BD783454BD07F5EA5B89FBC258B8B.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.06:924][492]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.06:924][492]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.07:593][564]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.51.07:600][564]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set Time  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.05.05-14.51.07:836][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.05.05-14.51.08:307][604]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-14.51.08:318][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.08:318][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-14.51.08:319][604]PIE: New page: PIE session: ThirdPersonExampleMap (5 may. 2020 18:51:08)
+[2020.05.05-14.51.08:319][604]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.51.08:364][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045224s)
+[2020.05.05-14.51.08:365][604]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.05-14.51.08:365][604]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2020.05.05-14.51.08:365][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046709s)
+[2020.05.05-14.51.08:404][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.05.05-14.51.08:405][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-14.51.08:405][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-14.51.08:405][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-14.51.08:405][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-14.51.08:405][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-14.51.08:405][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-14.51.08:405][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-14.51.08:405][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-14.51.08:406][604]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-14.51.08:406][604]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: Channel Order:
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-14.51.08:449][604]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-14.51.08:612][604]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.51.08:613][604]LogInit: FAudioDevice initialized.
+[2020.05.05-14.51.08:659][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.51.08:659][604]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.05-14.51.08:664][604]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.05-16.51.08
+[2020.05.05-14.51.08:665][604]LogWorld: Bringing up level for play took: 0.004598
+[2020.05.05-14.51.08:665][604]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.05.05-14.51.08:669][604]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,549
+[2020.05.05-14.51.08:670][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.08:670][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:726][605]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:736][606]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:746][607]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:755][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:763][609]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:772][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:780][611]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:788][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:797][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:806][614]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:814][615]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:824][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:832][617]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:841][618]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:849][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:859][620]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:867][621]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:876][622]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:884][623]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:894][624]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:902][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:911][626]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:919][627]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:928][628]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:936][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:945][630]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:954][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:962][632]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:971][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:979][634]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:988][635]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.08:997][636]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:005][637]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:014][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:022][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:031][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:040][641]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:049][642]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:058][643]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:066][644]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:074][645]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:083][646]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:091][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:100][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:108][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:116][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:125][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:134][652]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:142][653]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:150][654]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:159][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:166][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:174][657]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:183][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:191][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:199][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:208][661]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:216][662]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:224][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:233][664]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:241][665]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:250][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:258][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:320][668]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:327][669]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:336][670]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:344][671]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:353][672]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:361][673]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:369][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:378][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:386][676]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:394][677]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:403][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:411][679]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:419][680]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:428][681]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:436][682]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:444][683]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:453][684]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:461][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:469][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:478][687]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:486][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:495][689]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:503][690]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:512][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:520][692]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:528][693]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:537][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:545][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:554][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:562][697]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:571][698]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:580][699]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:589][700]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:598][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:606][702]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:615][703]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:624][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:632][705]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:641][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:649][707]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:658][708]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:667][709]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:675][710]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:684][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:692][712]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:701][713]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:709][714]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:718][715]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:726][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:736][717]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:745][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:753][719]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:761][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:770][721]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:779][722]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:787][723]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:796][724]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:805][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:813][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:822][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:829][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:838][729]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:847][730]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:857][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:865][732]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:874][733]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:882][734]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:891][735]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:899][736]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:908][737]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:917][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:926][739]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:934][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2020.05.05-14.51.09:935][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.51.09:935][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.51.09:935][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.09:935][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.51.09:935][740]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.51.09:943][740]LogSlate: Window 'Recuperacion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-14.51.09:953][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.51.09:953][740]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-14.51.09:955][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.51.09:979][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-14.51.09:979][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.09:984][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.51.10:016][740]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.51.10:026][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.05.05-14.51.10:075][741]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.05.05-14.51.27:291][708]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter377205D540B11221D446759F53F6DF93.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.27:302][708]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.27:303][708]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.27:475][723]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterF4793B4E4758C9CDCDCD0E8A96D1E560.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.27:487][723]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.27:487][723]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.28:131][787]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.51.28:366][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.05.05-14.51.29:135][861]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.05-14.51.29:147][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.29:147][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-14.51.29:147][861]PIE: New page: PIE session: ThirdPersonExampleMap (5 may. 2020 18:51:29)
+[2020.05.05-14.51.29:147][861]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.51.29:192][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045860s)
+[2020.05.05-14.51.29:193][861]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.05-14.51.29:194][861]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2020.05.05-14.51.29:194][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.047643s)
+[2020.05.05-14.51.29:232][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.05.05-14.51.29:233][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-14.51.29:233][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-14.51.29:233][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-14.51.29:233][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-14.51.29:234][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-14.51.29:234][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-14.51.29:234][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-14.51.29:234][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-14.51.29:234][861]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-14.51.29:234][861]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: Name: Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: Channel Order:
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-14.51.29:276][861]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-14.51.29:434][861]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2020.05.05-14.51.29:436][861]LogInit: FAudioDevice initialized.
+[2020.05.05-14.51.29:477][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.51.29:477][861]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.05-14.51.29:481][861]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.05-16.51.29
+[2020.05.05-14.51.29:482][861]LogWorld: Bringing up level for play took: 0.004413
+[2020.05.05-14.51.29:482][861]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.05.05-14.51.29:487][861]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,634
+[2020.05.05-14.51.29:487][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.35:872][612]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.51.35:880][612]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.05-14.51.35:900][612]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.05-14.51.35:900][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.35:901][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-14.51.35:901][612]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.05-14.51.35:909][612]LogSlate: Window 'Recuperacion Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-14.51.35:918][612]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.51.35:918][612]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-14.51.35:919][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.51.35:944][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-14.51.35:944][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.05-14.51.35:948][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-14.51.35:981][612]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-14.51.35:990][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.05-14.51.36:040][613]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.05.05-14.51.36:518][655]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter90B3615E49F04FA4508E5AB4C30033A7.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.36:530][655]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.36:530][655]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.36:727][670]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacterB87A5BAE469D9626F18F1A95D3094017.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.36:740][670]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.36:740][670]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.36:912][683]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter6C32CBF746E06E6B94F1C49D0458A47D.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.36:924][683]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.36:924][683]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.37:177][696]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter9576FD5D48AAE21E848268A8D0C66A6C.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.37:191][696]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.37:191][696]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.37:559][738]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.05-14.51.37:792][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.05.05-14.51.37:947][738]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter5EC29FB5443656DF30D848B74DC139F9.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.37:966][738]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.37:966][738]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.38:077][739]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonCharacter673985B34D93197FD83F569E1E6F857A.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.05-14.51.38:088][739]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.05-14.51.38:088][739]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.05-14.51.45:499][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.05.05-14.51.45:549][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.05-14.51.45:810][566]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/ThirdPersonExampleMap6775E1864EB822E9C03DE195724657A8.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.05-14.51.45:825][566]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.313
+[2020.05.05-14.51.45:828][566]LogSavePackage: Moving '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Saved/AIBlackboardDataC3AE34B640BD9CC96E414E9BCCE2995D.tmp' to '../../../../Proyectos/Git/Recuperacion_VillalbaAndrinoEric/Recuperacion/Content/Recuperacion/Blueprints/AIBlackboardData.uasset'
+[2020.05.05-14.51.45:844][566]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.05-14.51.45:844][566]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.05-14.51.45:844][566]LogContentValidation: Display: Validating BlackboardData /Game/Recuperacion/Blueprints/AIBlackboardData.AIBlackboardData
