@@ -1,0 +1,36 @@
+● (0,5p) Crear un Terrain con montañas, con un material que utilice varias texturas y
+que tenga arboles y cesped.
+● (0,25p) Que todas las entradas nuevas de Input (crear al menos 2) deberán estar
+mapeadas con Actions/Axis en vez de por eventos directos de
+teclado/mouse.
+● (1p) Crear una secuencia (todas las acciones han de estar implementadas dentro
+de la secuencia) que simule una discoteca y contenga al menos 3 de estas acciones:
+○ Que encienda y apague luces de diferentes tipos y colores.
+○ Que lance un evento que le quite vida al player en algún momento.
+○ Se haga de noche durante la secuencia y al terminar se vuelva a hacer de
+día.
+○ Que aplique una animación a un personaje.
+● (0,5p) Crear y lanzar UN solo clip sonido que:
+○ Que cuando se lance no siempre suene el mismo audio.
+○ Que modificar su pitch de manera aleatoria entre dos valores.
+● (0,25p) Usar en el Level Blueprint para lanzar/testear algunas de las
+funcionalidades creadas.
+● (1,5p) Crear una IA a partir del third person controller que implemente 3 de
+las siguientes opciones:
+○ Si esta ve al player, que se ponga a saltar. En cuanto player salga de su
+campo de visión, deberá seguir su ruta.
+● (1p) Crear 2 esferas físicas que se comporten como pelotas. El player sí podrá
+colisionar con ellas (que las mueva el engine, sin aplicarles nosotros un impulso).
+Pero que entre ellas no colisionEn.
+● (1p) Crear un HUD que muestre al menos 2 de las siguientes cosas:
+○ Tres corazones, y cada vez que el player pierda vida, pierda uno de ellos.
+○ Un texto que muestre la posición del player en todo momento.
+○ La cantidad de items recogidos pero que solo aparezca durante 1 segundo
+al recogerlos.
+● (1p) Crear al menos 2 animaciones diferentes para los elementos de HUD
+(ninguna puede ser desplazamiento).
+● (0,5p) Crear al menos 2 triggers con diferentes funcionalidades de entre las
+siguientes opciones:
+○ Item recolectable.
+○ Si el player está saltando al entrar lanza un sonido.
+
